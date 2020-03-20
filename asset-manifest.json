@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Forex/static/css/main.0ea408d9.chunk.css",
+    "main.js": "/Forex/static/js/main.296159d3.chunk.js",
+    "main.js.map": "/Forex/static/js/main.296159d3.chunk.js.map",
+    "runtime-main.js": "/Forex/static/js/runtime-main.73c68772.js",
+    "runtime-main.js.map": "/Forex/static/js/runtime-main.73c68772.js.map",
+    "static/js/2.828c86ed.chunk.js": "/Forex/static/js/2.828c86ed.chunk.js",
+    "static/js/2.828c86ed.chunk.js.map": "/Forex/static/js/2.828c86ed.chunk.js.map",
+    "index.html": "/Forex/index.html",
+    "precache-manifest.954cf330daec8605e83cea3d1b8ec118.js": "/Forex/precache-manifest.954cf330daec8605e83cea3d1b8ec118.js",
+    "service-worker.js": "/Forex/service-worker.js",
+    "static/css/main.0ea408d9.chunk.css.map": "/Forex/static/css/main.0ea408d9.chunk.css.map",
+    "static/js/2.828c86ed.chunk.js.LICENSE.txt": "/Forex/static/js/2.828c86ed.chunk.js.LICENSE.txt",
+    "static/media/instructions.svg": "/Forex/static/media/instructions.2634a84e.svg",
+    "static/media/index.css": "/Forex/static/media/ishant-mishra-UXEJDX4SqdE-unsplash.336ecdde.jpg",
+    "static/media/laptop_stock.png": "/Forex/static/media/laptop_stock.c1f04629.png",
+    "static/media/ledger.svg": "/Forex/static/media/ledger.e0b7a816.svg",
+    "static/media/mortarboard.svg": "/Forex/static/media/mortarboard.79a16ed7.svg",
+    "static/media/presentation.svg": "/Forex/static/media/presentation.7709129f.svg",
+    "static/media/stock_img.jpg": "/Forex/static/media/stock_img.62382304.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73c68772.js",
+    "static/js/2.828c86ed.chunk.js",
+    "static/css/main.0ea408d9.chunk.css",
+    "static/js/main.296159d3.chunk.js"
+  ]
+}
