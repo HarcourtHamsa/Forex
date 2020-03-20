@@ -1,0 +1,46 @@
+html,
+body {
+  font-family: "Baloo Da 2", cursive;
+}
+
+.mb-7 {
+  margin-bottom: 8em;
+}
+
+.jumbotron {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/ishant-mishra-UXEJDX4SqdE-unsplash.jpg");
+  /* background: linear-gradient(rgba(0,0,0,0.5)); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: whitesmoke;
+  height: 600px;
+}
+
+.form-control {
+  background: transparent;
+}
+
+.nav-item {
+  margin-left: 1em;
+}
+
+.navbar-toggler:focus {
+  border: 0;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 200px;
+}
+
+.border-left-success {
+  border-left: 2px solid green;
+}
+.border-left-info {
+  border-left: 2px solid orangered;
+}
